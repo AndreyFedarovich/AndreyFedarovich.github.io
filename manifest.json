@@ -1,6 +1,6 @@
 {
-  "short_name": "Andrey Fedorovich CV",
-  "name": "Andrey Fedorovich CV, Front-end developer",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
